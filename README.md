@@ -1,7 +1,7 @@
 
 # Vehicle Health Prediction
 
-![Vehicle Health Prediction](![Health-prediction-model](https://github.com/user-attachments/assets/719b4641-35d0-402e-bb81-3f58448943fd))
+![Health-prediction-model](https://github.com/user-attachments/assets/719b4641-35d0-402e-bb81-3f58448943fd)
 
 ## Overview
 
