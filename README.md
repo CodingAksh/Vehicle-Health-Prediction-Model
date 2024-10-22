@@ -1,7 +1,7 @@
 
 # Vehicle Health Prediction
 
-![Vehicle Health Prediction]("./static/images/Health-prediction-model.png")
+![Vehicle Health Prediction]("static/images/Health-prediction-model.png")
 
 ## Overview
 
