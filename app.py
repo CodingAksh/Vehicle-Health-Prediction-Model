@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 
 # Load the trained model
-with open("vehicle-healthg-pred-model.pkl", "rb") as file:
+with open("vehicle-health-pred-model.pkl", "rb") as file:
     model = pickle.load(file)
 
 
